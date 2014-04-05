@@ -7,4 +7,4 @@ C++ Project
 ![](Screenshots/1.jpg?raw=true)
 
 #### 设计类图
-![](Screenshots/2.jpg?raw=true)
+![](Screenshots/02.jpg?raw=true)

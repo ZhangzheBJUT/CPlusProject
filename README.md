@@ -4,7 +4,7 @@ C++ Project
 
 ### 1. 基于XML文本的XML树图形生成系统 
 #### 程序运行截图
-![]Screenshots/1.jpg?raw=true)
+![](Screenshots/1.jpg?raw=true)
 
 #### 设计类图
-![]Screenshots/2.jpg?raw=true)
+![](Screenshots/2.jpg?raw=true)

@@ -1,0 +1,12 @@
+<A>
+   <B>
+      <C n='ab'>cccc</C>
+      <E>
+          eee
+          <D id='dd'>
+                 ddd
+          </D>
+      </E>
+   </B>
+   <D>ddd</D>
+</A>	

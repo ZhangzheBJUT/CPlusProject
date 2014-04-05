@@ -8,3 +8,6 @@ C++ Project
 
 #### 设计类图
 ![](Screenshots/02.jpg?raw=true)
+
+
+详细说明见** XMLTree.doc**

@@ -1,0 +1,5 @@
+# funnel_analsyis extension
+comment = 'Extension for funnel analsyis'
+default_version = '1.0.1'
+module_pathname = '$libdir/funnel_analysis'
+relocatable = true

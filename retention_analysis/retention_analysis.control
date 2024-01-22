@@ -1,0 +1,5 @@
+# retention_analysis extension
+comment = 'Extension for retention analsyis'
+default_version = '1.0.1'
+module_pathname = '$libdir/retention_analysis'
+relocatable = true
